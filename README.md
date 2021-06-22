@@ -6,6 +6,11 @@
 - The purpose behind this project is to create a High-Low game where the user enters sequentially through the mean of a phone keypad 3 digits. After the 3 digits have been successfully entered and the key-button enter is pressed, the program routine will compare this number against a randomly generated number by the start of each match. If the user presses the back button on the key-pad the current digit being entered is erased and the user can then enter another value instead. After the win situation happens and the number is guessed, the system restarts and the game starts again.
 
 
+## Requirements / Environment
+- MPLAB X IDE
+- Proteus Design Suite
+
+
 ## Algorithm flow
 - The basic concept behind the algorithm of this design is to create at first, several global variables needed to hold triggering signals to track game start, end, comparison results.
 - The program starts off by setting up the system and displaying to the user the beginning messages (“PLAY”, “HILO”) followed by a cleared screen and 3 dashed digits where the user can input values. The user can then begin to take input from the key-pad into the microcontroller. 
