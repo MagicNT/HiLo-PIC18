@@ -1,4 +1,4 @@
-# HiLo-PIC18
+# High/Low Game on PIC18
 
 ## Description
 
